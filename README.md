@@ -88,7 +88,7 @@ repairs faster and easier, while helping handymen find the right clients, every 
 
 | Qualification | Institution | Year |
 | --- | --- | --- |
-| Bachelor In Computer Application — Indira Gandhi National Open University, Delhi | 2005 |
+| Bachelor In Computer Application | Indira Gandhi National Open University, Delhi | 2005 |
 | Master In Computer Application | Indira Gandhi National Open University, Delhi | 2007 |
 
 
