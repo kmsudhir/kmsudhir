@@ -24,8 +24,8 @@ My recent work includes Ecommerce search system with MCP, Model Context Protocol
 | Area | Technologies and capabilities |
 | --- | --- |
 | Languages & applications | PHP, Python, JavaScript, Node.js, React, SQL,  |
-| APIs & messaging | Backend | Laravel, CodeIgniter, FastAPI
-|  | 
+| APIs & messaging | REST, MongoDB | Backend | Laravel, CodeIgniter, FastAPI
+|
 | Data & search | SQL Server, MySql, PostgreSQL, MongoDB, SQLite, Qdrant |
 | AI & developer tooling | MCP, AI agents, RAG, hosted LLMs, GitHub Copilot |
 | APIs & Integrations | REST APIs, WhatsApp Cloud API, Google OAuth | E-commerce & CMS | OpenCart, WordPress | Tools & Deployment | Git, GitHub, Docker, Linux, Apache, Nginx |
