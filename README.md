@@ -5,7 +5,7 @@
 **AI Application Engineer | PHP & Laravel Developer | Python, FastAPI, LLM, RAG, MCP & Agentic AI | Building AI-powered business applications**
 
 📍 Delhi, India · 🌍 Open to relocation  
-[LinkedIn](https://www.linkedin.com/in/sudhir-singh-39b88422) · [GitHub](https://github.com/kmsudhir/) · [Email](mailto:sudhir.singh1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/sudhir-singh-39b88422) · [GitHub](https://github.com/kmsudhir/) · [Email](mailto:sudhir.singh1@gmail.com)
 
 I have build enterprise solution for logistic and medical equipment. Over 12+ years in website and ecommerce development, I have combined hands-on development with production troubleshooting, deploment automation with CI/CD, and technical leadership.
 
