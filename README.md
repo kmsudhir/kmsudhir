@@ -98,4 +98,4 @@ repairs faster and easier, while helping handymen find the right clients, every 
 
 I'm interested in hands-on engineering opportunities involving PHP/Node.js/Python, distributed systems, cloud and edge platforms, and AI-enabled developer tools.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/sudhir-singh-39b88422) · [Email me](mailto:sudhir.singh1@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/sudhir-singh-39b88422) · [![Email me](https://img.shields.io/badge/email-blue?logo=gmail)](mailto:sudhir.singh1@gmail.com)
