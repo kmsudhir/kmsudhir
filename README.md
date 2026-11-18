@@ -5,7 +5,7 @@
 **AI Application Engineer | PHP & Laravel Developer | Python, FastAPI, LLM, RAG, MCP & Agentic AI | Building AI-powered business applications**
 
 📍 Delhi, India · 🌍 Open to relocation  
-[![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/sudhir-singh-39b88422) · [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/kmsudhir?tab=repositories) · [![Email](https://img.shields.io/badge/email-blue?logo=gmail)](mailto:sudhir.singh1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/sudhir-singh-39b88422)  [![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/kmsudhir?tab=repositories)  [![Email](https://img.shields.io/badge/email-blue?logo=gmail)](mailto:sudhir.singh1@gmail.com)
 
 I have build enterprise solution for logistic and medical equipment. Over 12+ years in website and ecommerce development, I have combined hands-on development with production troubleshooting, deploment automation with CI/CD, and technical leadership.
 
@@ -81,7 +81,7 @@ Project Description : In10m app is handyman manage service provider. Making home
 repairs faster and easier, while helping handymen find the right clients, every time! When homeowners need urgent repairs, finding a reliable handyman quickly can be a challenge. Often, handymen are either too busy, too far away, or unable to respond in time. Meanwhile, handymen struggle to connect with clients who fit their schedule and location.
 
 **Tech:** PHP (Laravel), mysql, jquery
-
+</details>
 
 
 ## Education 
